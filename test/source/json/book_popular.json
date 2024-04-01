@@ -1,0 +1,17 @@
+[
+    {
+        "bookid": 0,
+        "bookName": "Fashionopolis",
+        "bookAuthor": "Dana Thomas"
+    },
+    {
+        "bookid": 1,
+        "bookName": "Chanel",
+        "bookAuthor": "Patrick Mauriès"
+    },
+    {
+        "bookid": 2,
+        "bookName": "Calligraphy",
+        "bookAuthor": "June & Lucy"
+    }
+]
